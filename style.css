@@ -1,0 +1,17 @@
+.green{
+    background-color: green;
+}
+.red {
+    background-color: red;
+}
+.blue {
+    background-color: #03A9F4;
+    margin: 20pc;
+}
+.black {
+    background-color: black;
+}
+*{
+    height: 100px;
+    width: 100px;
+}
